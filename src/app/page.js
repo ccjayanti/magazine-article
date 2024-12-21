@@ -22,7 +22,7 @@ export default function Home() {
           <div className="relative w-full h-96 mt-10">
             <div className="absolute top-0 left-0 w-full h-full">
               <Image
-                src="/img.png"
+                src="./img.png"
                 alt="hair"
                 layout="responsive"
                 width={300}
