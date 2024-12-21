@@ -25,7 +25,7 @@ export default function Home() {
           <div className="relative w-100 h-96">
             <div className="absolute top-0 left-0 w-40 h-40">
               <Image
-                src="/hair.png"
+                src="./hair.png"
                 alt="hair"
                 layout="fill"
                 objectFit="contain"
@@ -35,7 +35,7 @@ export default function Home() {
 
             <div className="absolute top-0 left-0 sm:w-40 md:w-40 lg:w-80 sm:h-300 md:h-300 lg:400 ">
               <Image
-                src="/giselle.png"
+                src="./giselle.png"
                 alt="giselle"
                 width={300}
                 height={300}
@@ -45,7 +45,7 @@ export default function Home() {
 
             <div className="absolute -0 right-0 z-999 sm:w-40 md:w-40 lg:w-60 sm:h-100 md:h-200 lg:300 ">
               <Image
-                src="/bella.png"
+                src="./bella.png"
                 alt="bella hadid"
                 width={200}
                 height={300}
